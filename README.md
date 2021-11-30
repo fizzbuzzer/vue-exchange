@@ -1,21 +1,23 @@
-# currency-exchange
+# Конвертер валют на Vue.js
 
-## Project setup
+Демо: https://fizzbuzzer.github.io/vue-exchange/
+
+## Установка пакетов
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Сборка для разработки
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### Сборка для продакшена
 ```
 yarn build
 ```
 
-### Lints and fixes files
+### Линтинг
 ```
 yarn lint
 ```
